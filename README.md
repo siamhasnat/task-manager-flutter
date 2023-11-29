@@ -34,5 +34,4 @@ here are some problems
  ![Alt text](assets/screenshot/Screenshot_1691352017.png) | ![Alt text](assets/screenshot/Screenshot_1691353385.png)
  ![Alt text](assets/screenshot/Screenshot_1691352061.png) | ![Alt text](assets/screenshot/Screenshot_1691352071.png)
  ![Alt text](assets/screenshot/Screenshot_1691352075.png) | ![Alt text](assets/screenshot/Screenshot_1691352080.png)
- ![Alt text](assets/screenshot/Screenshot_1691352086.png) | ![Alt text](assets/screenshot/Screenshot_1691352020.png)
 
