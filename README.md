@@ -6,11 +6,6 @@ A new Task Manager Flutter project.
 
 To get this app, run this command in your terminal:
 
-```bash
-git clone https://github.com/mostafejur21/task-manager-flutter.git 
-```
-
-## Remember to run fvm command to get the flutter version 3.10.6
 
 ```bash
 fvm use 3.10.6
